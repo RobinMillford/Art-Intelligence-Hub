@@ -81,6 +81,10 @@ The app is deployed on **Streamlit Cloud**, making it accessible to users anywhe
 
 **Streamlit App Link**: [Access Here](https://classify-ai-image-or-realart.streamlit.app/)
 
+**APP**
+
+![Alt Text](https://github.com/RobinMillford/Classifying-AI-Generated-and-Real-Art/blob/main/app.png)
+
 ---
 
 ## 🖥️ How to Use
