@@ -4,6 +4,4 @@ numpy
 pandas
 Pillow
 opencv-python
-opencv-python-headless
-libgl1-mesa-glx
-libglib2.0-0
+opencv-python-headless==4.10.0.84
