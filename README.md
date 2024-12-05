@@ -69,6 +69,8 @@ In this project, a Kaggle Notebook was used extensively for training, testing, a
 
 This combination of methods showcases the project's potential to provide a robust solution for distinguishing between AI-generated and real artworks.
 
+**Kaggle Notebook Link**: [Access Here](https://www.kaggle.com/code/yaminh/ai-vs-real-project)
+
 ---
 
 The project leverages **MobileNetV2's lightweight architecture** to ensure efficient predictions without sacrificing accuracy.
