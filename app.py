@@ -113,7 +113,7 @@ if uploaded_files:
     # Horizontal layout for displaying results
     col1, col2 = st.columns(2)
     with col1:
-        st.image(image, caption=f"Uploaded Image - {uploaded_files[current_image_index].name}", use_column_width=True)
+        st.image(image, caption=f"Uploaded Image - {uploaded_files[current_image_index].name}", use_container_width=True)
 
     with col2:
         if class_label == 0:
@@ -122,7 +122,7 @@ if uploaded_files:
             st.markdown(f"<h2 style='text-align: center; font-size: 32px; color: green;'>Classified as Real Art</h2>", unsafe_allow_html=True)
 
         st.markdown(f"<h4 style='text-align: center; font-size: 24px;'>Prediction confidence: {confidence:.4f}</h4>", unsafe_allow_html=True)
-        st.image(overlay_img, caption="Grad-CAM Visualization", use_column_width=True)
+        st.image(overlay_img, caption="Grad-CAM Visualization", use_container_width=True)
 
     # Pagination controls
     col1, col2, col3 = st.columns([1, 1, 1])
