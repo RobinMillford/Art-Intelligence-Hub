@@ -53,6 +53,8 @@ The model training and experimentation were conducted in a Kaggle Notebook. Key 
 
 **Kaggle Notebook Link**: [Access Here](https://www.kaggle.com/code/yaminh/ai-vs-real-project)
 
+**Kaggle Notebook Link (Art Analysis with LoRa)**: [Access Here](https://www.kaggle.com/code/yaminh/art-style-analysis-with-cnns-and-lora)
+
 ---
 
 ## 🌟 Deployment
